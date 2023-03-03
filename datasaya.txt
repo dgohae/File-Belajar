@@ -1,0 +1,4 @@
+Object Data
+- Tolong buat database dengan nama Surending Object
+- dengan primary key adalah id nya
+-
